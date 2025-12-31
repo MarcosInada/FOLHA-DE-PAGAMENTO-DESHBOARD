@@ -51,6 +51,3 @@ Segmentação por Abas: O projeto foi organizado em diferentes abas (Página 1, 
 # 💾 Fonte dos Dados
 Projeto realizado como parte do aprendizado prático em inteligência de negócios, focado na aplicação de Power BI para cenários corporativos de gestão de pessoas. 
 
-![Dashboard de RH](dashboard_rh.png) 
-![Dashboard de RH](dashboard_rh.png.2.png) 
-![Dashboard de RH](dashboard_rh.png.3.png) 
