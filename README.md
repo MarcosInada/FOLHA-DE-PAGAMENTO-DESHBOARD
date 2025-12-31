@@ -2,7 +2,12 @@
 Dashboard interativo de Business Intelligence para gestão de RH e Folha de Pagamento, com foco em análise de custos, head count e remuneração variável.
 
 # 📊 Dashboard de Gestão de Folha de Pagamento e RH
-Este dashboard foi desenvolvido para fornecer uma visão estratégica e detalhada sobre a folha de pagamento de uma organização, permitindo o monitoramento de custos, head count e a distribuição de salários por diferentes categorias e centros de custo.
+Este dashboard foi desenvolvido para fornecer uma visão estratégica e detalhada sobre a folha de pagamento de uma organização, permitindo o monitoramento de custos, head count e a distribuição de salários por diferentes categorias e centros de custo. 
+
+### Imagem do deshboard 
+![Dashboard de RH](dashboard_rh.png) 
+![Dashboard de RH](dashboard_rh.png.2.png) 
+![Dashboard de RH](dashboard_rh.png.3.png) 
 
 # 📝 Contexto do Projeto
 O objetivo principal deste projeto é centralizar as informações financeiras relacionadas aos colaboradores para facilitar a tomada de decisão gerencial. Através deste painel, é possível identificar rapidamente os maiores centros de despesa, a média salarial por cargo e a eficiência na distribuição de bônus e comissões.
